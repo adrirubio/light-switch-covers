@@ -2,8 +2,7 @@
 
 **Full Design Process**: [Blueprint Project](https://blueprint.hackclub.com/projects/10420)
 
-A set of custom 3D-printed light switch covers with bold industrial designs. The project includes three themed covers (CAUTION, WARNING, and POWER CONTROL), precisely measured to fit the switches in my bedroom. Each cover features a clean, minimalist CAD design with carefully positioned text and icons that are fully surfaced into the plate. Easy to print and install, these covers are guaranteed to give your bedroom a striking, personalized design element.
-
+A set of custom 3D-printed light switch covers with bold industrial designs. The project includes three themed covers (CAUTION, WARNING, and POWER CONTROL), precisely measured to fit the switches in my bedroom. Each cover features a clean, minimalist CAD design with carefully positioned text and icons that are fully surfaced into the plate. Easy to print and install, these covers are designed to give your bedroom a striking, personalized design element.
 ## CAD Screenshots
 
 | CAUTION Cover | WARNING Cover |
@@ -12,7 +11,7 @@ A set of custom 3D-printed light switch covers with bold industrial designs. The
 
 | POWER CONTROL Cover |
 |---------------------|
-| ![POWER CONTROL Cover](screenshots/power-control-cover.png)
+| ![POWER CONTROL Cover](screenshots/power-control-cover.png) |
 
 ## Usage
 
