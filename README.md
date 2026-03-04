@@ -21,7 +21,7 @@ Print the cover that matches your switch size, type, and preferred design. Place
 
 I created this project because standard light switch covers are often plain and don’t add much character to a room. I wanted a simple 3D-printed solution that adds a bold, industrial look while keeping a clean, flush design.
 
-## Light Switch
+## Light Switch In Action
 
 **Coming Soon**
 
